@@ -1,3 +1,9 @@
+# Pomodoro clock
+
+Pomodoro clock is the timer based clock which uses the Pomodoro technique for the purpose of the time management.
+
+This project is the simple pomodoro clock using the ReactJS library.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
